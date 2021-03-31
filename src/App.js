@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { GlobalStyle } from "./components/Styles/GlobalStyle";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import SigninPage from "./pages/signin";
 
