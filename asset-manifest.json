@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/styled_components-react-virtual_banking-page/static/css/main.99e75adc.chunk.css",
+    "main.js": "/styled_components-react-virtual_banking-page/static/js/main.8cc325e4.chunk.js",
+    "main.js.map": "/styled_components-react-virtual_banking-page/static/js/main.8cc325e4.chunk.js.map",
+    "runtime-main.js": "/styled_components-react-virtual_banking-page/static/js/runtime-main.fded53d6.js",
+    "runtime-main.js.map": "/styled_components-react-virtual_banking-page/static/js/runtime-main.fded53d6.js.map",
+    "static/js/2.857694cd.chunk.js": "/styled_components-react-virtual_banking-page/static/js/2.857694cd.chunk.js",
+    "static/js/2.857694cd.chunk.js.map": "/styled_components-react-virtual_banking-page/static/js/2.857694cd.chunk.js.map",
+    "index.html": "/styled_components-react-virtual_banking-page/index.html",
+    "precache-manifest.a5bfe2602f695ccd57ba226e4bbccefc.js": "/styled_components-react-virtual_banking-page/precache-manifest.a5bfe2602f695ccd57ba226e4bbccefc.js",
+    "service-worker.js": "/styled_components-react-virtual_banking-page/service-worker.js",
+    "static/css/main.99e75adc.chunk.css.map": "/styled_components-react-virtual_banking-page/static/css/main.99e75adc.chunk.css.map",
+    "static/js/2.857694cd.chunk.js.LICENSE.txt": "/styled_components-react-virtual_banking-page/static/js/2.857694cd.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/styled_components-react-virtual_banking-page/static/media/svg-1.715313cd.svg",
+    "static/media/svg-2.svg": "/styled_components-react-virtual_banking-page/static/media/svg-2.4a122f73.svg",
+    "static/media/svg-3.svg": "/styled_components-react-virtual_banking-page/static/media/svg-3.d9e440a5.svg",
+    "static/media/svg-5.svg": "/styled_components-react-virtual_banking-page/static/media/svg-5.494b2abd.svg",
+    "static/media/video.mp4": "/styled_components-react-virtual_banking-page/static/media/video.72ed5715.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fded53d6.js",
+    "static/js/2.857694cd.chunk.js",
+    "static/css/main.99e75adc.chunk.css",
+    "static/js/main.8cc325e4.chunk.js"
+  ]
+}
