@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/styled_components-react-virtual_banking-page/precache-manifest.a5bfe2602f695ccd57ba226e4bbccefc.js"
+  "/styled_components-react-virtual_banking-page/precache-manifest.fcd9289f9e799f4b53d6af914faa0055.js"
 );
 
 self.addEventListener('message', (event) => {
