@@ -1,1 +1,2 @@
-* linguist-language="SCSS"
+*.css linguist-detectable=true
+*.js linguist-detectable=false
